@@ -4,4 +4,3 @@ and extracting metrics related to hyperglycemia, hypoglycemia, and time interval
 The analysis is performed for both manual and auto modes of the system, 
 considering data asynchronously collected from Continuous Glucose Sensors and insulin pumps. 
 The project culminates in the generation of a Results.csv file containing 18 metrics. 
-The evaluation is based on the accuracy of the extracted metrics with a 10% error limit.
