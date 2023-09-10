@@ -1,0 +1,13 @@
+README
+
+Steps to Execute Code:
+[step 1] Ensure you have correct dependencies and csv files
+[step 2] Execute python file; the main function will return and print results
+
+NOTE: Wasn't sure to return results in main or just print
+
+Link to resource(s): none
+
+Further step-by-step instructions: not needed
+
+
