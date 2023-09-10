@@ -1,0 +1,3 @@
+Part 3 involves applying cluster validation techniques to a provided dataset. 
+Developed Python code to perform clustering and assess its accuracy using SSE and supervised cluster validity metrics. 
+The project focuses on clustering meal data to determine carbohydrate amounts. 
