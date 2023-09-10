@@ -1,0 +1,2 @@
+# DataMining-MachineModel-ClusterValidation
+Project involves: 1) Extracting metrics from Artificial Pancreas sensor data for hyperglycemia, hypoglycemia, &amp; time intervals 2) Training a model to differentiate meal &amp; no meal time series data, considering missing data &amp; feature selection 3) Applying cluster validation to cluster meal data for carb amount determination, assessing accuracy w/ SSE
